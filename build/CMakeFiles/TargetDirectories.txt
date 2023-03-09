@@ -1,0 +1,8 @@
+/home/enzobonato/tek3/R-type/R-type/build/CMakeFiles/edit_cache.dir
+/home/enzobonato/tek3/R-type/R-type/build/CMakeFiles/rebuild_cache.dir
+/home/enzobonato/tek3/R-type/R-type/build/CLIENT/CMakeFiles/r-type_client.dir
+/home/enzobonato/tek3/R-type/R-type/build/CLIENT/CMakeFiles/edit_cache.dir
+/home/enzobonato/tek3/R-type/R-type/build/CLIENT/CMakeFiles/rebuild_cache.dir
+/home/enzobonato/tek3/R-type/R-type/build/SERVER/CMakeFiles/r-type_server.dir
+/home/enzobonato/tek3/R-type/R-type/build/SERVER/CMakeFiles/edit_cache.dir
+/home/enzobonato/tek3/R-type/R-type/build/SERVER/CMakeFiles/rebuild_cache.dir

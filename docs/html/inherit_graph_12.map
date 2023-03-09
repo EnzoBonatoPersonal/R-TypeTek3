@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classi_component.html" title=" " alt="" coords="5,208,107,235"/>
+<area shape="rect" id="node2" href="$classc_behaviour.html" title=" " alt="" coords="161,5,256,32"/>
+<area shape="rect" id="node3" href="$classc_collision.html" title=" " alt="" coords="166,56,251,83"/>
+<area shape="rect" id="node4" href="$classc_controllable.html" title=" " alt="" coords="155,107,263,133"/>
+<area shape="rect" id="node5" href="$classc_graphical.html" title=" " alt="" coords="163,157,254,184"/>
+<area shape="rect" id="node6" href="$classc_scene.html" title=" " alt="" coords="175,208,243,235"/>
+<area shape="rect" id="node7" href="$classc_speed.html" title=" " alt="" coords="174,259,243,285"/>
+<area shape="rect" id="node8" href="$classc_stats.html" title=" " alt="" coords="177,309,240,336"/>
+<area shape="rect" id="node9" href="$classc_text.html" title=" " alt="" coords="181,360,237,387"/>
+<area shape="rect" id="node10" href="$classc_weapon.html" title=" " alt="" coords="168,411,249,437"/>
+</map>
